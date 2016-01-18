@@ -1,5 +1,7 @@
 My published projects
 -----------
+[![Research software impact](http://depsy.org/api/person/365040/badge.svg)](http://depsy.org/person/365040)
+
 
 Here is a list of my current project pages maintained on GitHub (with project repos naturally).
 
